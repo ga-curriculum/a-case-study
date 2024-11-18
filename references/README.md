@@ -1,10 +1,9 @@
 <h1>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">A+ Case Study</span>
   <span class="subhead">References</span>
 </h1>
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [ThousandEyes Facebook Outage Analysis](https://www.thousandeyes.com/blog/facebook-outage-analysis)
+
