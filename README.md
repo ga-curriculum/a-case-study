@@ -5,14 +5,14 @@
 
 ## About
 
-This module will demonstrate real-world application of CompTIA A+ skills through a high profile IT incident. This case study illustrates how fundamental IT skills could have prevented or mitigated major technical failures.
+This module will demonstrate a real-world application of CompTIA A+ skills through a high-profile IT incident. This case study illustrates how fundamental IT skills could have prevented or mitigated major technical failures.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Case Study](./case-study/README.md)                | 15 | Learn why A+ material is important! |
-| **Total content**                                   | 15 |                                     |
+| [Facebook's Global Configuration Error](./facebooks-global-configuration-error/README.md) | 15 min | Learn why A+ material is valuable! |
+| **Total content**                                                                         | 15 min |                                    |
 
 ## References
 
@@ -26,8 +26,8 @@ This module will demonstrate real-world application of CompTIA A+ skills through
 
 ### Course landing pages
 
-- [tktk-course-acronym - tktk Course Full Name](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/A-Case-Study/canvas-landing-pages/tktk-course-acronym.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/A-Case-Study/canvas-landing-pages/fallback.html)
+- [ITB - IT Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/a-case-study/canvas-landing-pages/itb.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/a-case-study/canvas-landing-pages/fallback.html)
 
 ### Resources
 

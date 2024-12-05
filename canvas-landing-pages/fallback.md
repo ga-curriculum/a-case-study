@@ -4,22 +4,16 @@
   <span class="headline">A+ Case Study</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+## About
+
+This module will demonstrate a real-world application of CompTIA A+ skills through a high-profile IT incident. This case study illustrates how fundamental IT skills could have prevented or mitigated major technical failures.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](./setup/README.md)                          | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | tktk Skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | tktk Skills covered                     |
-| **Total content**                                   | -- |                                         |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | tktk Skills covered |
+| [Facebook's Global Configuration Error](./facebooks-global-configuration-error/README.md) | 15 min | Learn why A+ material is valuable! |
+| **Total content**                                                                         | 15 min |                                    |
 
 ## References
 

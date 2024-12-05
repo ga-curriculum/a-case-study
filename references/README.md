@@ -5,5 +5,4 @@
 
 ## Lesson references
 
-- [ThousandEyes Facebook Outage Analysis](https://www.thousandeyes.com/blog/facebook-outage-analysis)
-
+- [ThousandEyes - Facebook Outage Analysis](https://www.thousandeyes.com/blog/facebook-outage-analysis)
