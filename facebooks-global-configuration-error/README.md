@@ -3,7 +3,7 @@
   <span class="subhead">Facebook's Global Configuration Error</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will have a real-world example of why the knowledge learned within the A+ course is essential to their future careers.
+**Learning objective:** By the end of this lesson, students will be able to recall a real-world example of why the knowledge learned within the A+ course is essential to their future careers.
 
 # The incident
 
