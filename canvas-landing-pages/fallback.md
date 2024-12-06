@@ -13,7 +13,7 @@ This module will demonstrate a real-world application of CompTIA A+ skills throu
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Facebook's Global Configuration Error](../facebooks-global-configuration-error/README.md) | 15 min | Learn why A+ material is valuable! |
-| **Total content**                                                                         | 15 min |                                    |
+| **Total content**                                                                          | 15 min |                                    |
 
 ## References
 
