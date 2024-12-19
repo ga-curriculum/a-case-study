@@ -76,7 +76,9 @@ Let's take a step back and identify the core issues at play in this incident and
 - Multiple unrelated services depended on a single point of failure that was not fully understood or documented.
 - Internal communication channels were disrupted, hindering recovery efforts.
 
-> ❓ Is there anything that comes to mind as a way to remediate any of these issues?
+<blockquote class="knowledge-check">
+  ❓ Is there anything that comes to mind as a way to remediate any of these issues?
+</blockquote>
 
 ## Why this matters
 
