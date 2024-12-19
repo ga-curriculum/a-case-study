@@ -29,7 +29,7 @@ When DNS servers are unreachable, it's like having a phone with no contacts save
 
 Once a DNS server provides a numerical address, BGP is like a navigation app showing the best route to reach that address across a maze of digital roads. Without BGP routes, it's as if every street sign vanished. You know your destination exists, but you have no idea how to get there.
 
-On the day of the incident, Facebook made a routine maintenance change to the backbone network inside their data centers. This change withdrew the BGP routes that tell the global internet — and many of Facebook's own internal systems — where to find their DNS servers.
+On the day of the incident, a routine maintenance change was made to the backbone network inside their data centers. This change withdrew the BGP routes that tell the global internet — and many of Facebook's own internal systems — where to find their DNS servers.
 
 With the BGP "maps" gone, each of Facebook's data centers became an island, cut off from the global network. No one inside or outside Facebook knew how to reach its authoritative DNS servers. This meant there was no source of truth for translating facebook.com into an address.
 
