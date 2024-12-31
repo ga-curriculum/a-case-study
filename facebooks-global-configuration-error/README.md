@@ -82,7 +82,9 @@ Let's take a step back and identify the core issues at play in this incident and
 
 ## Why this matters
 
-This case demonstrates crucial skills we'll learn while studying for the A+ exams. This case shows that a single, minor misconfiguration can topple massive infrastructures. In this course, you'll learn about the building blocks — hardware, networking, security, and change management — that can help prevent or mitigate these failures.
+This case demonstrates crucial skills we'll learn while studying for the A+ exams. It also shows that a minor misconfiguration can topple massive infrastructures.
+
+In this course, you'll learn about the building blocks that can help prevent or mitigate these kinds of failures:
 
 1. Hardware and infrastructure
 
